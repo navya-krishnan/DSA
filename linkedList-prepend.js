@@ -59,3 +59,6 @@ class Node{
   
   list.prepend(30)
   list.print()
+  
+  list.prepend(40)
+  list.print()
